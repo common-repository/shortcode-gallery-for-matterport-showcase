@@ -1,0 +1,11 @@
+"Project-Id-Version: WP Matterport Shortcode\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: en, er,\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Explore 3D Space"
+msgstr "Entdecken 3D Space"
